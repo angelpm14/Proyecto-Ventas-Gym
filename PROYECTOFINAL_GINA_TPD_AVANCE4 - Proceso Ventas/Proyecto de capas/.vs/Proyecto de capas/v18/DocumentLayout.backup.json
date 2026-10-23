@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmPantallaProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmPantallaProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|d:\\instituto mac\\proyectos\\proyecto de ventas gym\\proyectofinal_gina_tpd_avance4 - proceso ventas\\proyecto de capas\\sistema.presentacion\\frmpantallaproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmpantallaproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmMenuPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmPantallaVistaCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:Sistema.Negocio\\NCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.datos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\resources\\cerca.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\resources\\cerca.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.datos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:Sistema.Datos\\DProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.datos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:Sistema.Entidades\\Productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\Variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:Sistema.Entidades\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:Sistema.Entidades\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:Sistema.Entidades\\Venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmMenuPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.negocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:Sistema.Negocio\\NProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867129D-CE2E-4215-9EBC-FE5D6B92C382}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:Sistema.Negocio\\NVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864C5F4-272F-4C2D-9185-5B15E4CAB3E3}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.presentacion\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E17697-E2B0-4D8B-A05D-A3F9E9650FA4}|Sistema.Entidades\\Sistema.Entidades.csproj|solutionrelative:sistema.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmPantallaVistaCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7283BBE9-A28B-49FD-8BB8-CDFD5E1020BF}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPantallaProducto.Designer.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPantallaProducto.Designer.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.Designer.cs*",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPantallaProducto.Designer.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:10:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPantallaProducto.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPantallaProducto.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs*",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPantallaProducto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategoria.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.805Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPantallaProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPantallaProducto.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaProducto.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPantallaProducto.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.806Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmProducto.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPantallaVistaCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPantallaVistaCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\App.config",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\App.config",
+              "RelativeToolTip": "Sistema.Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-13T00:03:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NCategoria.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NCategoria.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NCategoria.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Properties\\Settings.settings",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Properties\\Settings.settings",
+              "RelativeToolTip": "Sistema.Presentacion\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-10-13T00:03:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DCliente.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DCliente.cs",
+              "RelativeToolTip": "Sistema.Datos\\DCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Program.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Program.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\packages.config",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\packages.config",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\packages.config",
+              "RelativeToolTip": "Sistema.Presentacion\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-13T00:03:53.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DProductos.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DProductos.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DProductos.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DProductos.cs",
+              "RelativeToolTip": "Sistema.Datos\\DProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cerca.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [32x32, 32 bits, PNG]",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Resources\\cerca.png",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Resources\\cerca.png",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Resources\\cerca.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [32x32, 32 bits, PNG]",
+              "RelativeToolTip": "Sistema.Presentacion\\Resources\\cerca.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [32x32, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-13T00:04:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DCategoria.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DCategoria.cs",
+              "RelativeToolTip": "Sistema.Datos\\DCategoria.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DVenta.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DVenta.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DVenta.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DVenta.cs",
+              "RelativeToolTip": "Sistema.Datos\\DVenta.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAADwv5YAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\README.txt",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\README.txt",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\README.txt",
+              "RelativeToolTip": "Sistema.Presentacion\\README.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-13T00:03:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Productos.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Productos.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NUsuario.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NUsuario.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Variables.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Variables.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\Variables.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Variables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmProducto.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmProducto.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmProducto.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmProducto.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwPAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmCategoria.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategoria.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCategoria.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCategoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmCliente.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCliente.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAvwCsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Categoria.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Categoria.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Venta.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Venta.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Venta.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Venta.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Cliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Cliente.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwLQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NCliente.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NCliente.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NCliente.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:53.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NProductos.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NProductos.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NProductos.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NProductos.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NProductos.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NVenta.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NVenta.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NVenta.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Negocio\\NVenta.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NVenta.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Datos\\DUsuario.cs",
+              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.Designer.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidades\\Usuario.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Entidades\\Usuario.cs",
+              "RelativeToolTip": "Sistema.Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmPantallaVistaCliente.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPantallaVistaCliente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMenuPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T00:03:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt",
+              "RelativeDocumentMoniker": "packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt",
+              "ToolTip": "D:\\INSTITUTO MAC\\PROYECTOS\\Proyecto de ventas GYM\\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\\Proyecto de capas\\packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt",
+              "RelativeToolTip": "packages\\Zen.Barcode.Rendering.Framework.3.1.10729.1\\README.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-13T00:03:54.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

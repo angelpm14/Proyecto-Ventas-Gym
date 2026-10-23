@@ -1,0 +1,537 @@
+que tablas usarias para crear una tienda virtual de gimnasio (usa SQL server, y crea procesos almacenados)
+
+
+Tabla Clientes
+
+ID_Cliente (clave primaria)
+Nombre
+Apellido
+Correo_Electronico
+Telefono
+Dirección
+Tabla Productos
+
+ID_Producto (clave primaria)
+Nombre
+Descripcion
+Precio
+Stock
+ID_Categoria (clave foránea)
+Tabla Categorías
+
+ID_Categoria (clave primaria)
+Nombre
+Tabla Pedidos
+
+ID_Pedido (clave primaria)
+Fecha
+ID_Cliente (clave foránea)
+Tabla Líneas de Pedido
+
+ID_Linea_Pedido (clave primaria)
+Cantidad
+ID_Producto (clave foránea)
+ID_Pedido (clave foránea)
+Procedimientos Almacenados
+sp_Crear_Cliente
+
+@Nombre
+@Apellido
+@Correo_Electronico
+@Telefono
+@Dirección
+Crea un nuevo cliente en la tabla Clientes
+sp_Actualizar_Cliente
+
+@ID_Cliente
+@Nombre
+@Apellido
+@Correo_Electronico
+@Telefono
+@Dirección
+Actualiza la información de un cliente existente en la tabla Clientes
+sp_Eliminar_Cliente
+
+@ID_Cliente
+Elimina un cliente de la tabla Clientes y también elimina sus pedidos y líneas de pedido asociadas
+sp_Crear_Producto
+
+@Nombre
+@Descripcion
+@Precio
+@Stock
+@ID_Categoria
+Crea un nuevo producto en la tabla Productos
+sp_Actualizar_Producto
+
+@ID_Producto
+@Nombre
+@Descripcion
+@Precio
+@Stock
+@ID_Categoria
+Actualiza la información de un producto existente en la tabla Productos
+sp_Eliminar_Producto
+
+@ID_Producto
+Elimina un producto de la tabla Productos
+sp_Crear_Pedido
+
+@ID_Cliente
+@Fecha
+Crea un nuevo pedido en la tabla Pedidos y registra las líneas de pedido en la tabla Líneas de Pedido
+sp_Actualizar_Pedido
+
+@ID_Pedido
+@ID_Cliente
+@Fecha
+Actualiza la información de un pedido existente en la tabla Pedidos
+sp_Eliminar_Pedido
+
+@ID_Pedido
+Elimina un pedido de la tabla Pedidos y también elimina sus líneas de pedido asociadas
+Estos procedimientos almacenados se utilizarán para interactuar con la base de datos y realizar las operaciones necesarias en la tienda virtual de gimnasio.
+
+Además, puedes crear funciones de validación para cada tabla, como comprobar si un correo electrónico o teléfono ya existe antes de insertarlo en la tabla Clientes, o si un producto está agotado antes de agregarlo a un pedido.
+
+
+
+
+
+
+
+------------------------------------
+
+
+
+
+
+CREATE DATABASE GYMMEGAMUSCULO_VENTAS;
+
+USE GYMMEGAMUSCULO_VENTAS;
+
+CREATE TABLE Productos(
+    id INT AUTO_INCREMENT,
+    nombre VARCHAR(100),
+    descripcion TEXT,
+    precio DECIMAL(10,2),
+    PRIMARY KEY(id)
+);
+
+CREATE TABLE Clientes(
+    id INT AUTO_INCREMENT,
+    nombre VARCHAR(100),
+    apellido VARCHAR(100),
+    correo_electronico VARCHAR(100),
+    telefono VARCHAR(15),
+    PRIMARY KEY(id)
+);
+
+CREATE TABLE Ventas(
+    id_Ventas INT Identity,
+    id_cliente int,
+    id_Usuario int,
+    tipo_comprob varchar(20),
+    serie_comprob varchar(7),
+    num_comprob varchar(10),
+    fecha_venta DATEtime,
+    total decimal(9,2)
+    PRIMARY KEY(id_Ventas),
+    FOREIGN KEY(id_cliente) REFERENCES Cliente(id_cliente),
+    FOREIGN KEY(id_Usuario) REFERENCES Usuario(id_Usuario)
+);
+
+
+CREATE TABLE Detall_Ventas(
+    id_detalVent INT AUTO_INCREMENT,
+    id_Ventas int,
+    cantidad INT,
+    precio decimal(9,2),
+    descuent decmal(9,2)
+    PRIMARY KEY(id_Ventas),
+    FOREIGN KEY(cliente_id) 
+    REFERENCES Clientes(id)
+);
+///////////////////////////////////////////
+
+
+CREATE PROCEDURE AgregarProducto(IN nombre VARCHAR(100), IN descripcion TEXT, IN precio DECIMAL(10,2))
+BEGIN
+    INSERT INTO Productos(nombre, descripcion, precio)
+    VALUES(nombre, descripcion, precio);
+END;
+//////////////////////////////////////
+
+CREATE PROCEDURE ModificarProducto(IN id INT, IN nombre VARCHAR(100), IN descripcion TEXT, IN precio DECIMAL(10,2))
+BEGIN
+    UPDATE Productos
+    SET nombre = nombre, descripcion = descripcion, precio = precio
+    WHERE id = id;
+END;
+////////////////////////////////////////////
+
+CREATE PROCEDURE EliminarProducto(IN id INT)
+BEGIN
+    DELETE FROM Productos WHERE id = id;
+END;
+
+////////////////////////////////////////////
+
+CREATE PROCEDURE AgregarCliente(IN nombre VARCHAR(100), IN apellido VARCHAR(100), IN correo_electronico VARCHAR(100), IN telefono VARCHAR(15))
+BEGIN
+    INSERT INTO Clientes(nombre, apellido, correo_electronico, telefono)
+    VALUES(nombre, apellido, correo_electronico, telefono);
+END;
+
+////////////////////////////////////////////
+CREATE PROCEDURE ModificarCliente(IN id INT, IN nombre VARCHAR(100), IN apellido VARCHAR(100), IN correo_electronico VARCHAR(100), IN telefono VARCHAR(15))
+BEGIN
+    UPDATE Clientes
+    SET nombre = nombre, apellido = apellido, correo_electronico = correo_electronico, telefono = telefono
+    WHERE id = id;
+END;
+////////////////////////////////////////////
+CREATE PROCEDURE EliminarCliente(IN id INT)
+BEGIN
+    DELETE FROM Clientes WHERE id = id;
+END;
+////////////////////////////////////////////
+
+CREATE PROCEDURE RegistrarVenta(IN producto_id INT, IN cliente_id INT, IN fecha_venta DATE, IN cantidad INT)
+BEGIN
+    INSERT INTO Ventas(producto_id, cliente_id, fecha_venta, cantidad)
+    VALUES(producto_id, cliente_id, fecha_venta, cantidad);
+END;
+
+///////////////////////////////////
+
+CREATE PROCEDURE ModificarVenta(IN id INT, IN producto_id INT, IN cliente_id INT, IN fecha_venta DATE, IN cantidad INT)
+BEGIN
+    UPDATE Ventas
+    SET producto_id = producto_id, cliente_id = cliente_id, fecha_venta = fecha_venta, cantidad = cantidad
+    WHERE id = id;
+END;
+///////////////////////////////////
+CREATE PROCEDURE EliminarVenta(IN id INT)
+BEGIN
+    DELETE FROM Ventas WHERE id = id;
+END;
+
+///////////////////////////////////
+
+CREATE PROC VENTASXFECHAS
+
+SELECT * FROM Ventas WHERE fecha_venta BETWEEN 'fecha_inicio' AND 'fecha_fin';
+
+//////////////////////////////
+
+
+
+////////////////////////////
+
+CREATE TABLE PRODUCTO(
+	ID_PROD int PRIMARY KEY identity, 
+	ID_CATE int,
+	COD_PROD varchar(50),
+	NOMB_PROD varchar(80), 
+	PREC_PROD decimal (9,2), 
+	STOCK_PROD int, 
+	DESCRI_PROD varchar(150), 
+	IMAG_PROD varchar(20),
+	ESTAD_PROD bit default(1)
+)
+
+--DROP TABLE PRODUCTO
+
+create tabLE CATEGORIA (
+	ID_CATE integer primary key identity,
+	NOM_CATE varchar(30) not null,
+	DESCR_CATE varchar(100) null,
+	ESTAD_CATE bit default(1)
+)
+
+--DROP TABLE CATEGORIA
+
+CREATE TABLE CLIENTES(
+    ID_CLIENTES INT PRIMARY KEY Identity,
+    NOMB_CLIENTE VARCHAR(25),
+    APE_CLIENTE VARCHAR(25),
+    CORRE_CLIENTE VARCHAR(50),
+    CELUL_CLIENTE VARCHAR(9)NOT NULL,
+	DIRECC_CLIENTE VARCHAR(35),
+	FOTO_CLIENTE VARCHAR(20),
+	ESTAD_CLIENTE bit default(1)
+)
+
+--DROP TABLE CLIENTES
+
+CREATE TABLE VENTAS(
+    ID_VENTAS INT Identity,
+    ID_CLIENTES int,
+    ID_USUARIO int,
+    TIPCOMPRB_VENTA varchar(20),
+    SERIECOMPRB_VENTA varchar(7),
+    NUMBCOMPRB_VENTA varchar(10),
+    FECHA_VENTA DATEtime,
+    IMPUEST_VENTA decimal (4,2) not null,
+    TOTAL_VENTA decimal(9,2),
+	ESTADO_VENT VARCHAR(20)
+    PRIMARY KEY(ID_VENTAS),
+    FOREIGN KEY(ID_CLIENTES) REFERENCES CLIENTES(ID_CLIENTES),
+    FOREIGN KEY(ID_USUARIO) REFERENCES USUARIO(ID_USUARIO)
+)
+
+--DROP TABLE VENTAS
+
+CREATE TABLE DETALL_VENTAS(
+    ID_DETALLVENT INT Identity PRIMARY KEY,
+    ID_VENTAS int,
+    ID_PROD INT,
+    CANT_DETALLVENT INT,
+    PREC_DETALLVENT decimal(9,2),
+    DESCUE_DETALLVENT decImal(9,2),
+    FOREIGN KEY(ID_VENTAS) 
+    REFERENCES VENTAS(ID_VENTAS),
+    FOREIGN KEY(ID_PROD)
+    REFERENCES PRODUCTO(ID_PROD)
+)
+
+--DROP TABLE DETALL_VENTAS
+
+create table USUARIO(
+	ID_USUARIO integer primary key identity,
+	ID_ROL integer not null,
+	NOMB_USU varchar(100) not null,
+	TIPDOC_USU varchar(20) null,
+	NUMDOC_USU varchar(12) null,
+	DIREC_USU varchar(70) null,
+	CEL_USU char(9) null,
+	EMAIL varchar(50) not null,
+	CONTRA varbinary(MAX) not null,
+	ESTADO bit default(1),
+	FOREIGN KEY (ID_ROL) REFERENCES ROL (ID_ROL)
+)
+
+--DROP TABLE USUARIO
+
+create table ROL (
+	ID_ROL integer primary key identity,
+	NOMB_ROL varchar(30) not null,
+	DESCRIP_ROL varchar(100) null,
+	ESTADO_ROL bit default(1)
+)
+
+--DROP TABLE ROL
+
+
+create TYPE type_DETALLVENT as table
+(
+	ID_PROD int,	
+	COD_PROD varchar(50),
+	NOMB_PROD varchar(80),
+	STOCK_PROD int,
+	CANT_DETALLVENT int,
+	PREC_DETALLVENT decimal(9,2),
+	DESCUE_DETALLVENT decimal(9,2)
+);
+go
+
+create table ingreso(
+	idingreso integer primary key identity,
+	idproveedor integer not null,
+	ID_USUARIO integer not null,
+	tipo_comprobante varchar(20) not null,
+	serie_comprobante varchar(7) null,
+	num_comprobante varchar (10) not null,
+	fecha datetime not null,
+	impuesto decimal (4,2) not null,
+	total decimal (11,2) not null,
+	estado varchar(20) not null,
+	FOREIGN KEY (idproveedor) REFERENCES CLIENTES (ID_CLIENTE),
+	FOREIGN KEY (ID_USUARIO) REFERENCES USUARIO (ID_USUARIO)
+);
+go
+
+--Tabla detalle_ingreso
+create table detalle_ingreso (
+	iddetalle_ingreso integer primary key identity,
+	idingreso integer not null,
+	idarticulo integer not null,
+	cantidad integer not null,
+	precio decimal(9,2) not null,
+	FOREIGN KEY (idingreso) REFERENCES ingreso (idingreso) ON DELETE CASCADE,
+	FOREIGN KEY (idarticulo) REFERENCES articulo (idarticulo)
+);
+go
+
+
+//////////////////////////////////////
+create proc sp_insertaUsuario
+@idrol integer,
+@nombre varchar(100),
+@tipo_documento varchar(20),
+@num_documento varchar(20),
+@direccion varchar(70),
+@celular varchar(20),
+@email varchar(50),
+@clave varchar(50)
+as
+insert into usuario (idrol,nombre,tipo_documento,num_documento,direccion,celular,email,clave)
+values (@idrol,@nombre,@tipo_documento,@num_documento,@direccion,@celular,@email,HASHBYTES('SHA2_256',@clave))
+go
+
+exec sp_insertaUsuario 1,'Juan Perez','DNI','555555555','Av. Universitaria 985','989889898','','123456'
+exec sp_insertaUsuario 2,'Pedro Mendoza','DNI','211542421','Av. Los alisos','654745648','','654321'
+exec sp_insertaUsuario 3,'Gabriel Cerron','DNI','487487478','Av. Los andamios 123','958741254','','123654'
+exec sp_listaUsuario
+
+CREATE TABLE DETALL_VENTAS(
+    ID_DETALLVENT INT Identity PRIMARY KEY,
+    ID_VENTAS int,
+    CANT_DETALLVENT INT,
+    PREC_DETALLVENT decimal(9,2),
+    DESCUE_DETALLVENT decImal(9,2),
+    FOREIGN KEY(ID_VENTAS) 
+    REFERENCES VENTAS(ID_VENTAS)
+);
+
+create table USUARIO(
+	ID_USUARIO integer primary key identity,
+	idrol integer not null,
+	NOMB_USU varchar(100) not null,
+	TIPDOC_USU varchar(20) null,
+	NUMDOC_USU varchar(12) null,
+	DIREC_USU varchar(70) null,
+	CEL_USU char(9) null,
+	EMAIL varchar(50) not null,
+	CONTRA varbinary(MAX) not null,
+	ESTADO bit default(1),
+	FOREIGN KEY (idrol) REFERENCES rol (idrol)
+);
+
+
+--////////////////////////////////////////////
+--////////////////////////////////////////////--////////////////////////////////////////////
+--////////////////////////////////////////////--////////////////////////////////////////////
+--////////////////////////////////////////////
+
+
+
+CREATE PROCEDURE AgregarProducto(IN nombre VARCHAR(100), IN descripcion TEXT, IN precio DECIMAL(10,2))
+BEGIN
+    INSERT INTO Productos(nombre, descripcion, precio)
+    VALUES(nombre, descripcion, precio);
+END;
+--//////////////////////////////////////
+
+CREATE PROCEDURE ModificarProducto(IN id INT, IN nombre VARCHAR(100), IN descripcion TEXT, IN precio DECIMAL(10,2))
+BEGIN
+    UPDATE Productos
+    SET nombre = nombre, descripcion = descripcion, precio = precio
+    WHERE id = id;
+END;
+--////////////////////////////////////////////
+
+CREATE PROCEDURE EliminarProducto(IN id INT)
+BEGIN
+    DELETE FROM Productos WHERE id = id;
+END;
+
+--////////////////////////////////////////////
+--////////////////////////////////////////////
+
+CREATE PROCEDURE AgregarCliente(IN nombre VARCHAR(100), IN apellido VARCHAR(100), IN correo_electronico VARCHAR(100), IN telefono VARCHAR(15))
+BEGIN
+    INSERT INTO Clientes(nombre, apellido, correo_electronico, telefono)
+    VALUES(nombre, apellido, correo_electronico, telefono);
+END;
+
+--////////////////////////////////////////////
+
+CREATE PROCEDURE ModificarCliente(IN id INT, IN nombre VARCHAR(100), IN apellido VARCHAR(100), IN correo_electronico VARCHAR(100), IN telefono VARCHAR(15))
+BEGIN
+    UPDATE Clientes
+    SET nombre = nombre, apellido = apellido, correo_electronico = correo_electronico, telefono = telefono
+    WHERE id = id;
+END;
+--////////////////////////////////////////////
+CREATE PROCEDURE EliminarCliente(IN id INT)
+BEGIN
+    DELETE FROM Clientes WHERE id = id;
+END;
+--////////////////////////////////////////////
+--////////////////////////////////////////////
+CREATE PROCEDURE RegistrarVenta(IN producto_id INT, IN cliente_id INT, IN fecha_venta DATE, IN cantidad INT)
+BEGIN
+    INSERT INTO Ventas(producto_id, cliente_id, fecha_venta, cantidad)
+    VALUES(producto_id, cliente_id, fecha_venta, cantidad);
+END;
+
+--///////////////////////////////////
+
+CREATE PROCEDURE ModificarVenta(IN id INT, IN producto_id INT, IN cliente_id INT, IN fecha_venta DATE, IN cantidad INT)
+BEGIN
+    UPDATE Ventas
+    SET producto_id = producto_id, cliente_id = cliente_id, fecha_venta = fecha_venta, cantidad = cantidad
+    WHERE id = id;
+END;
+--///////////////////////////////////
+CREATE PROCEDURE EliminarVenta(IN id INT)
+BEGIN
+    DELETE FROM Ventas WHERE id = id;
+END;
+
+--///////////////////////////////////
+
+CREATE PROC VENTASXFECHAS
+
+SELECT * FROM Ventas WHERE fecha_venta BETWEEN 'fecha_inicio' AND 'fecha_fin';
+
+
+create proc sp_insertaCLIENTE
+@tipopersona varchar(20),
+@nombre varchar(80),
+@tipodoc varchar(20),
+@numdoc varchar(12),
+@direccion varchar(70),
+@celular char(9),
+@email varchar(50)
+as
+insert into persona(tipo_persona,nombre,tipo_documento,num_documento,direccion,celular,email)
+values(@tipopersona,@nombre,@tipodoc,@numdoc,@direccion,@celular,@email)
+
+exec sp_insertapersona 'Cliente','Jose Bendezu','DNI','444444444','Av. Los lunas 123','999999999',''
+exec sp_insertapersona 'Cliente','Martha sanchez','DNI','441141414','Calle palazelos','999999999',''
+exec sp_insertapersona 'Cliente','Lucia Perez','DNI','440040404','Av.Los lunas 123','909909009',''
+exec sp_insertapersona 'Proveedor','Grupo Gloria','RUC','20111111111111','Calle los Jasmines 132 Ate','999999999',''
+
+
+--////////////////////////////////////////////
+--////////////////////////////////////////////
+
+
+private void AgregarDetalle(int ID_PROD, string COD_PROD, string NOMB_PROD, int STOCK_PROD, int CANT_DETALLVENT, decimal PREC_DETALLVENT, decimal DESCUE_DETALLVENT)
+{
+    bool Agregar = true;
+    foreach (DataRow FilaTemp in DDetalle.Rows)
+    {
+        if (Convert.ToInt32(FilaTemp["ID_PROD"]) == ID_PROD)
+        {
+            Agregar = false;
+            MensajeError("El artículo ya ha sido agregado.");
+        }
+    }
+    if (Agregar)
+    {
+        DataRow Fila = DDetalle.NewRow();
+        Fila["ID_PROD"] = ID_PROD;
+        Fila["CODIGO"] = COD_PROD;
+        Fila["NOMBRE"] = NOMB_PROD;
+        Fila["STOCK"] = STOCK_PROD;
+        Fila["CANTIDAD"] = 1;
+        Fila["PRECIO"] = PREC_DETALLVENT;
+        Fila["DESCUENTO"] = 0;
+        Fila["IMPORTE"] = PREC_DETALLVENT;
+        DDetalle.Rows.Add(Fila);
+        CalcularTotales();
+    }

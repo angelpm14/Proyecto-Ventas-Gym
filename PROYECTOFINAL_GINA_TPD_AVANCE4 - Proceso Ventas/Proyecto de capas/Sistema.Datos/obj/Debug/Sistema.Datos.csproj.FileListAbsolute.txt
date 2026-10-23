@@ -1,0 +1,72 @@
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\angel\source\repos\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\angel\Downloads\avance marco\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+D:\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTO_GINA(AVANCES_PROSPEROYZAVALA)\PROYECTO GINA(AVANCE 1.1)\ProyectoGina(ANGELPROSPERO,MARCOZAVALA)\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\angel\OneDrive\Escritorio\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\ANGEL PROSPERO\OneDrive\Escritorio\drive-download-20250304T003608Z-001\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+D:\INSTITUTO MAC\PROYECTOS\Proyecto de ventas GYM\PROYECTOFINAL_GINA_TPD_AVANCE4 - Proceso Ventas\Proyecto de capas\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

@@ -1,0 +1,14 @@
+USUARIO 1
+USUARIO: pepe
+CONTRA: 123456
+
+USUARIO 2
+USUARIO: jaime
+CONTRA: 654321
+
+USUARIO 3
+USUARIO: felipe
+CONTRA: 159357
+
+
+Recuerda para que funcione primero cambia tu server name de tu SQL server en app.config dentro del Sistema.Presentacion y ejecuta el script sql que esta en el .rar 😉
